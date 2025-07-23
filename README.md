@@ -18,14 +18,6 @@ You no longer need to provide a signature in the config. The only thing you need
 4. 支付钱包地址：G53haKTkFHUjex3tsAsdukkZTgirU74rJg5UkRmsTBZL  需要支付USDC，否则无法使用，只支持USDC
 5. 需要你手动设置修改系统的ulimit 否则ip太多，系统的描述符会不够用，导致程序无法正常运行
 
-### 授权方案
-
-| 支付金额 | 使用期限 |
-|---------|---------|
-| 200 USDC | 30 天 |
-| 500 USDC | 100 天 |
-| 1000 USDC | 240 天 |
-
 ## 免责声明
 
 - 本软件为付费授权使用
