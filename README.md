@@ -1,4 +1,9 @@
-﻿# rust-mev-proxy-vip
+## DEV
+I'm not a programmer at all, this is my first time ever doing something like this. I removed the license check just because I was curious and wanted to learn how it works. I decided to share it here in case someone else finds it useful too
+
+You no longer need to provide a signature in the config. The only thing you need to do is insert your own public key in the config file for everything to work correctly
+
+# rust-mev-proxy-vip
 本软件非免费试用，需要购买授权，请勿用于非法用途。
 
 [官方网站 ：https://www.solboxs.com/proxy](https://www.solboxs.com/proxy)
@@ -28,8 +33,3 @@
 - 使用前请确保符合当地法律法规
 
 
-## DEV
-I'm not a programmer at all, this is my first time ever doing something like this. I removed the license check just because I was curious and wanted to learn how it works. I decided to share it here in case someone else finds it useful too
-
-
-You no longer need to provide a signature in the config. The only thing you need to do is insert your own public key in the config file for everything to work correctly
