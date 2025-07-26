@@ -6,6 +6,19 @@ You no longer need to provide a signature in the config. The only thing you need
 
 This proxy software is specifically designed for integration with Jito and allows you to run a high-performance proxy server that increases TPS (transactions per second) in the Jito ecosystem. Using this solution ensures optimization when working with Jito, service scaling, and increased throughput thanks to efficient transaction processing via proxy. With support for the Jito engine and flexible proxy configuration, you can achieve maximum performance and reliability for your Solana applications. Jito proxy helps implement modern approaches to accelerating and optimizing RPC operations, as well as ensuring stable integration with Jito infrastructure for MEV and other high-load tasks. If you are looking for a tool to increase throughput and stability in Solana, this Jito proxy is an excellent choice for your project.
 
+---
+
+## 📦 Supported Platforms
+
+The build script automatically detects your platform and creates optimized binaries for multiple architectures:
+
+### 🐧 Linux Distributions
+
+| Binary                           | Target                     | Description                                                                                           |
+| -------------------------------- | -------------------------- | ----------------------------------------------------------------------------------------------------- |
+| `patched-vip_x86_64-linux-musl`  | x86_64-unknown-linux-musl  | **Universal Linux** - Compatible with most distributions (Ubuntu, Debian, CentOS, Fedora, Arch, etc.) |
+| `patched-vip_aarch64-linux-musl` | aarch64-unknown-linux-musl | **ARM 64-bit** - For ARM-based systems (Raspberry Pi 4, ARM servers)                                  |
+
 # README
 
 This software is a patched version of the original software [Original Github](https://github.com/SaoXuan/rust-mev-proxy-vip).
