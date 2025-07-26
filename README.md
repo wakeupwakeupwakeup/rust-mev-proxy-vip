@@ -19,6 +19,10 @@ The build script automatically detects your platform and creates optimized binar
 | `patched-vip_x86_64-linux-musl`  | x86_64-unknown-linux-musl  | **Universal Linux** - Compatible with most distributions (Ubuntu, Debian, CentOS, Fedora, Arch, etc.) |
 | `patched-vip_aarch64-linux-musl` | aarch64-unknown-linux-musl | **ARM 64-bit** - For ARM-based systems (Raspberry Pi 4, ARM servers)                                  |
 
+# Our Discord
+
+If you have any questions, please join our Discord: https://discord.gg/uQjDnRhy
+
 # README
 
 This software is a patched version of the original software [Original Github](https://github.com/SaoXuan/rust-mev-proxy-vip).
